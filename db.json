@@ -11,6 +11,55 @@
       "name": "Bond 2",
       "rating": "AA",
       "yield": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Bond 3",
+      "rating": "A",
+      "yield": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Bond 4",
+      "rating": "BBB",
+      "yield": 3.8
+    },
+    {
+      "id": 5,
+      "name": "Bond 5",
+      "rating": "BB",
+      "yield": 6.2
+    },
+    {
+      "id": 6,
+      "name": "Bond 6",
+      "rating": "B",
+      "yield": 7.1
+    },
+    {
+      "id": 7,
+      "name": "Bond 7",
+      "rating": "CCC",
+      "yield": 9.3
+    },
+    {
+      "id": 8,
+      "name": "Bond 8",
+      "rating": "CC",
+      "yield": 11.5
+    },
+    {
+      "id": 9,
+      "name": "Bond 9",
+      "rating": "C",
+      "yield": 14.7
+    },
+    {
+      "id": 10,
+      "name": "Bond 10",
+      "rating": "D",
+      "yield": 18.3
     }
   ]
 }
+
