@@ -1,0 +1,17 @@
+{
+  "financialData": [
+    {
+      "id": 1,
+      "name": "Bond 1",
+      "rating": "AAA",
+      "yield": 5.6
+    },
+    {
+      "id": 2,
+      "name": "Bond 2",
+      "rating": "AA",
+      "yield": 4.7
+    }
+    // ...other data
+  ]
+}
