@@ -61,8 +61,14 @@
       "yield": 18.3
     }
   ],
-"stocks":[
-  {"id": "tsla", "symbol": "TSLA", "name": "Tesla, Inc.", "security_type": "Common Stock"},
+"stocks": [
+  {
+    "id": "tsla", 
+    "symbol": "TSLA", 
+    "name": "Tesla, Inc.", 
+    "security_type": 
+    "Common Stock"
+  },
   {"id": "appl", "symbol": "AAPL", "name": "Apple Inc.", "security_type": "Common Stock"},
   {"id": "msft", "symbol": "MSFT", "name": "Microsoft Corporation", "security_type": "Common Stock"},
   {"id": "goog", "symbol": "GOOG", "name": "Alphabet Inc.", "security_type": "Common Stock"},
@@ -89,29 +95,7 @@
   {"id": "nke", "symbol": "NKE", "name": "NIKE, Inc.", "security_type": "Common Stock"},
   {"id": "adbe", "symbol": "ADBE", "name": "Adobe Inc.", "security_type": "Common Stock"},
   {"id": "mdt", "symbol": "MDT", "name": "Medtronic plc", "security_type": "Common Stock"},
-  {"id": "orcl", "symbol": "ORCL", "name": "Oracle Corporation", "security_type": "Common Stock"},
-  {"id": "cvs", "symbol": "CVS", "name": "CVS Health Corporation", "security_type": "Common Stock"},
-  {"id": "ibm", "symbol": "IBM", "name": "International Business Machines Corporation", "security_type": "Common Stock"},
-  {"id": "txn", "symbol": "TXN", "name": "Texas Instruments Incorporated", "security_type": "Common Stock"},
-  {"id": "qcom", "symbol": "QCOM", "name": "QUALCOMM Incorporated", "security_type": "Common Stock"},
-  {"id": "bac", "symbol": "BAC", "name": "Bank of America Corporation", "security_type": "Common Stock"},
-  {"id": "mmm", "symbol": "MMM", "name": "3M Company", "security_type": "Common Stock"},
-  {"id": "hmc", "symbol": "HMC", "name": "Honda Motor Co., Ltd.", "security_type": "ADR"},
-  {"id": "tmo", "symbol": "TMO", "name": "Thermo Fisher Scientific Inc.", "security_type": "Common Stock"},
-  {"id": "unp", "symbol": "UNP", "name": "Union Pacific Corporation", "security_type": "Common Stock"},
-  {"id": "aapl", "symbol": "AAPL", "name": "Apple Inc.", "security_type": "Common Stock"},
-  {"id": "f", "symbol": "F", "name": "Ford Motor Company", "security_type": "Common Stock"},
-  {"id": "sbux", "symbol": "SBUX", "name": "Starbucks Corporation", "security_type": "Common Stock"},
-  {"id": "wfc", "symbol": "WFC", "name": "Wells Fargo & Company", "security_type": "Common Stock"},
-  {"id": "dis", "symbol": "DIS", "name": "The Walt Disney Company", "security_type": "Common Stock"},
-  {"id": "gs", "symbol": "GS", "name": "The Goldman Sachs Group, Inc.", "security_type": "Common Stock"},
-  {"id": "ba", "symbol": "BA", "name": "The Boeing Company", "security_type": "Common Stock"},
-  {"id": "mmm", "symbol": "MMM", "name": "3M Company", "security_type": "Common Stock"},
-  {"id": "mcd", "symbol": "MCD", "name": "McDonald's Corporation", "security_type": "Common Stock"},
-  {"id": "hd", "symbol": "HD", "name": "The Home Depot, Inc.", "security_type": "Common Stock"},
-  {"id": "ge", "symbol": "GE", "name": "General Electric Company", "security_type": "Common Stock"},
-  {"id": "ko", "symbol": "KO", "name": "The Coca-Cola Company", "security_type": "Common Stock"},
-  {"id": "pep", "symbol": "PEP", "name": "PepsiCo, Inc.", "security_type": "Common Stock"}
+  {"id": "orcl", "symbol": "ORCL", "name": "Oracle Corporation", "security_type": "Common Stock"}
 ]
 }
 
