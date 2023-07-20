@@ -60,8 +60,8 @@
       "rating": "D",
       "yield": 18.3
     }
-  ]
-  "stocks":[
+  ],
+"stocks":[
   {"id": "tsla", "symbol": "TSLA", "name": "Tesla, Inc.", "security_type": "Common Stock"},
   {"id": "appl", "symbol": "AAPL", "name": "Apple Inc.", "security_type": "Common Stock"},
   {"id": "msft", "symbol": "MSFT", "name": "Microsoft Corporation", "security_type": "Common Stock"},
