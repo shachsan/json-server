@@ -96,6 +96,317 @@
   {"id": "adbe", "symbol": "ADBE", "name": "Adobe Inc.", "security_type": "Common Stock"},
   {"id": "mdt", "symbol": "MDT", "name": "Medtronic plc", "security_type": "Common Stock"},
   {"id": "orcl", "symbol": "ORCL", "name": "Oracle Corporation", "security_type": "Common Stock"}
-]
+],
+"stock-detial": {
+  "tsla": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  }
+  "aapl": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "msft": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "goog": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "ma": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "fb": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "amzn": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "baba": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "jpm": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "unh": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "v": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "jnj": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "wmt": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "pg": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "intc": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "vz": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "hd": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "pfe": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "mrk": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "mcd": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "abt": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "pep": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "ko": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "xom": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "nke": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "adbe": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "mdt": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  },
+  "orcl": {
+      "symbol": "TSLA",
+      "last_price": 289,
+      "change": 1.2,
+      "shares": "",
+      "avg_cost": "",
+      "market_value": "",
+      "daily_gain": "",
+      "total_gain": "",
+      "notes": ""
+  }
+  },
+
 }
 
