@@ -61,41 +61,542 @@
       "yield": 18.3
     }
   ],
-"stocks": [
-  {
-    "id": "tsla", 
-    "symbol": "TSLA", 
-    "name": "Tesla, Inc.", 
-    "security_type": 
-    "Common Stock"
-  },
-  {"id": "appl", "symbol": "AAPL", "name": "Apple Inc.", "security_type": "Common Stock"},
-  {"id": "msft", "symbol": "MSFT", "name": "Microsoft Corporation", "security_type": "Common Stock"},
-  {"id": "goog", "symbol": "GOOG", "name": "Alphabet Inc.", "security_type": "Common Stock"},
-  {"id": "amzn", "symbol": "AMZN", "name": "Amazon.com, Inc.", "security_type": "Common Stock"},
-  {"id": "fb", "symbol": "FB", "name": "Facebook, Inc.", "security_type": "Common Stock"},
-  {"id": "baba", "symbol": "BABA", "name": "Alibaba Group Holding Limited", "security_type": "ADR"},
-  {"id": "v", "symbol": "V", "name": "Visa Inc.", "security_type": "Common Stock"},
-  {"id": "jnj", "symbol": "JNJ", "name": "Johnson & Johnson", "security_type": "Common Stock"},
-  {"id": "wmt", "symbol": "WMT", "name": "Walmart Inc.", "security_type": "Common Stock"},
-  {"id": "pg", "symbol": "PG", "name": "The Procter & Gamble Company", "security_type": "Common Stock"},
-  {"id": "jpm", "symbol": "JPM", "name": "JPMorgan Chase & Co.", "security_type": "Common Stock"},
-  {"id": "unh", "symbol": "UNH", "name": "UnitedHealth Group Incorporated", "security_type": "Common Stock"},
-  {"id": "ma", "symbol": "MA", "name": "Mastercard Incorporated", "security_type": "Common Stock"},
-  {"id": "intc", "symbol": "INTC", "name": "Intel Corporation", "security_type": "Common Stock"},
-  {"id": "vz", "symbol": "VZ", "name": "Verizon Communications Inc.", "security_type": "Common Stock"},
-  {"id": "hd", "symbol": "HD", "name": "The Home Depot, Inc.", "security_type": "Common Stock"},
-  {"id": "pfe", "symbol": "PFE", "name": "Pfizer Inc.", "security_type": "Common Stock"},
-  {"id": "mrk", "symbol": "MRK", "name": "Merck & Co., Inc.", "security_type": "Common Stock"},
-  {"id": "pep", "symbol": "PEP", "name": "PepsiCo, Inc.", "security_type": "Common Stock"},
-  {"id": "mcd", "symbol": "MCD", "name": "McDonald's Corporation", "security_type": "Common Stock"},
-  {"id": "abt", "symbol": "ABT", "name": "Abbott Laboratories", "security_type": "Common Stock"},
-  {"id": "ko", "symbol": "KO", "name": "The Coca-Cola Company", "security_type": "Common Stock"},
-  {"id": "xom", "symbol": "XOM", "name": "Exxon Mobil Corporation", "security_type": "Common Stock"},
-  {"id": "nke", "symbol": "NKE", "name": "NIKE, Inc.", "security_type": "Common Stock"},
-  {"id": "adbe", "symbol": "ADBE", "name": "Adobe Inc.", "security_type": "Common Stock"},
-  {"id": "mdt", "symbol": "MDT", "name": "Medtronic plc", "security_type": "Common Stock"},
-  {"id": "orcl", "symbol": "ORCL", "name": "Oracle Corporation", "security_type": "Common Stock"}
-],
-"stock-detail": [{"id":"tsla","symbol":"TSLA","last_price":141.43,"change":6.05,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"aapl","symbol":"AAPL","last_price":118.36,"change":0.49,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"msft","symbol":"MSFT","last_price":125.78,"change":2.75,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"goog","symbol":"GOOG","last_price":145.34,"change":6.72,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"ma","symbol":"MA","last_price":165.1,"change":6.7,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"fb","symbol":"FB","last_price":276.48,"change":9.36,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"amzn","symbol":"AMZN","last_price":261.53,"change":5.45,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"baba","symbol":"BABA","last_price":208.72,"change":4.43,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"jpm","symbol":"JPM","last_price":173.48,"change":7.42,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"unh","symbol":"UNH","last_price":71.17,"change":9.36,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"v","symbol":"V","last_price":98.5,"change":3.53,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"jnj","symbol":"JNJ","last_price":58.92,"change":6.74,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"wmt","symbol":"WMT","last_price":118.7,"change":4.33,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"pg","symbol":"PG","last_price":97.31,"change":3.19,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"intc","symbol":"INTC","last_price":45.9,"change":2.21,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"vz","symbol":"VZ","last_price":40.7,"change":9.77,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"hd","symbol":"HD","last_price":240.52,"change":3.25,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"pfe","symbol":"PFE","last_price":296.62,"change":9,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"mrk","symbol":"MRK","last_price":95.82,"change":9.23,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"mcd","symbol":"MCD","last_price":223.31,"change":8.25,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"abt","symbol":"ABT","last_price":274.73,"change":7.25,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"pep","symbol":"PEP","last_price":57.55,"change":7.55,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"ko","symbol":"KO","last_price":174.55,"change":6.93,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"xom","symbol":"XOM","last_price":29.95,"change":7.3,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"nke","symbol":"NKE","last_price":22.26,"change":8.05,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"adbe","symbol":"ADBE","last_price":218.25,"change":5.81,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"mdt","symbol":"MDT","last_price":238.03,"change":4.7,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null},{"id":"orcl","symbol":"ORCL","last_price":276.89,"change":3.05,"shares":null,"avg_cost":null,"market_value":null,"daily_gain":null,"total_gain":null,"notes":null}]
+  "stocks": [
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "appl",
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "goog",
+      "symbol": "GOOG",
+      "name": "Alphabet Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "fb",
+      "symbol": "FB",
+      "name": "Facebook, Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "baba",
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited",
+      "security_type": "ADR"
+    },
+    {
+      "id": "v",
+      "symbol": "V",
+      "name": "Visa Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "jnj",
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "wmt",
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "pg",
+      "symbol": "PG",
+      "name": "The Procter & Gamble Company",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "jpm",
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "unh",
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "ma",
+      "symbol": "MA",
+      "name": "Mastercard Incorporated",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "vz",
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "hd",
+      "symbol": "HD",
+      "name": "The Home Depot, Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "pfe",
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "mrk",
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "pep",
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "mcd",
+      "symbol": "MCD",
+      "name": "McDonald's Corporation",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "abt",
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "ko",
+      "symbol": "KO",
+      "name": "The Coca-Cola Company",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "xom",
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "nke",
+      "symbol": "NKE",
+      "name": "NIKE, Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "adbe",
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "mdt",
+      "symbol": "MDT",
+      "name": "Medtronic plc",
+      "security_type": "Common Stock"
+    },
+    {
+      "id": "orcl",
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "security_type": "Common Stock"
+    }
+  ],
+  "stock-detail": [
+    {
+      "id": "tsla",
+      "symbol": "TSLA",
+      "last_price": 141.43,
+      "change": 6.05,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "aapl",
+      "symbol": "AAPL",
+      "last_price": 118.36,
+      "change": 0.49,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "msft",
+      "symbol": "MSFT",
+      "last_price": 125.78,
+      "change": 2.75,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "goog",
+      "symbol": "GOOG",
+      "last_price": 145.34,
+      "change": 6.72,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "ma",
+      "symbol": "MA",
+      "last_price": 165.1,
+      "change": 6.7,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "fb",
+      "symbol": "FB",
+      "last_price": 276.48,
+      "change": 9.36,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "amzn",
+      "symbol": "AMZN",
+      "last_price": 261.53,
+      "change": 5.45,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "baba",
+      "symbol": "BABA",
+      "last_price": 208.72,
+      "change": 4.43,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "jpm",
+      "symbol": "JPM",
+      "last_price": 173.48,
+      "change": 7.42,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "unh",
+      "symbol": "UNH",
+      "last_price": 71.17,
+      "change": 9.36,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "v",
+      "symbol": "V",
+      "last_price": 98.5,
+      "change": 3.53,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "jnj",
+      "symbol": "JNJ",
+      "last_price": 58.92,
+      "change": 6.74,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "wmt",
+      "symbol": "WMT",
+      "last_price": 118.7,
+      "change": 4.33,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "pg",
+      "symbol": "PG",
+      "last_price": 97.31,
+      "change": 3.19,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "intc",
+      "symbol": "INTC",
+      "last_price": 45.9,
+      "change": 2.21,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "vz",
+      "symbol": "VZ",
+      "last_price": 40.7,
+      "change": 9.77,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "hd",
+      "symbol": "HD",
+      "last_price": 240.52,
+      "change": 3.25,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "pfe",
+      "symbol": "PFE",
+      "last_price": 296.62,
+      "change": 9,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "mrk",
+      "symbol": "MRK",
+      "last_price": 95.82,
+      "change": 9.23,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "mcd",
+      "symbol": "MCD",
+      "last_price": 223.31,
+      "change": 8.25,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "abt",
+      "symbol": "ABT",
+      "last_price": 274.73,
+      "change": 7.25,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "pep",
+      "symbol": "PEP",
+      "last_price": 57.55,
+      "change": 7.55,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "ko",
+      "symbol": "KO",
+      "last_price": 174.55,
+      "change": 6.93,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "xom",
+      "symbol": "XOM",
+      "last_price": 29.95,
+      "change": 7.3,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "nke",
+      "symbol": "NKE",
+      "last_price": 22.26,
+      "change": 8.05,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "adbe",
+      "symbol": "ADBE",
+      "last_price": 218.25,
+      "change": 5.81,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "mdt",
+      "symbol": "MDT",
+      "last_price": 238.03,
+      "change": 4.7,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    },
+    {
+      "id": "orcl",
+      "symbol": "ORCL",
+      "last_price": 276.89,
+      "change": 3.05,
+      "shares": null,
+      "avg_cost": null,
+      "market_value": null,
+      "daily_gain": null,
+      "total_gain": null,
+      "notes": null
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "url": "https://picsum.photos/id/237/200/300"
+    },
+    {
+      "id": 2,
+      "url": "https://picsum.photos/id/238/200/300"
+    },
+    {
+      "id": 3,
+      "url": "https://picsum.photos/id/239/200/300"
+    },
+    {
+      "id": 4,
+      "url": "https://picsum.photos/id/240/200/300"
+    },
+    {
+      "id": 5,
+      "url": "https://picsum.photos/id/241/200/300"
+    },
+    {
+      "id": 6,
+      "url": "https://picsum.photos/id/242/200/300"
+    },
+    {
+      "id": 7,
+      "url": "https://picsum.photos/id/243/200/300"
+    }
+  ]
 }
